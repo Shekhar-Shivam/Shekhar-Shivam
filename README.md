@@ -1,7 +1,7 @@
 ### ABOUT ME :
-   CS Graduate | BIT Mesra 2020 |
-   Software Engineer @ Samsung R&D Institute |
-   Problem Solver | Self Taught Learner
+   CS Graduate @ BIT Mesra 2020 |<br>
+   Software Engineer @ Samsung R&D Institute | <br>
+   Problem Solver | Self Taught Learner <br>
    
 <img width="700" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47km6li6r0513am5tgs3onm1jiz5g6m89mkddyv3wt&rid=giphy.gif&ct=g">
 
@@ -24,7 +24,7 @@
    
    
 ### CERTIFICATIONS : 
-1> DSA (GeeksForGeeks)
+1> DSA (GeeksForGeeks) <br>
 2> Machine Learning (Coding Ninjas)
 
 ### GOAL :  
