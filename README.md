@@ -21,7 +21,23 @@
    - Data Structure & Algorithms
    - Computer Networks
    - Databases
-   
+     
+4> Cloud
+   - GCP
+   - AWS
+
+5> Frameworks
+   - Vue
+   - Spring
+   - FastAPI
+
+6> Utilites
+   - Kubernetes
+   - Docker
+   - CI/CD
+   - Github
+   - Linux
+   - Jmeter
    
 ### CERTIFICATIONS : 
 1> DSA (GeeksForGeeks) <br>
