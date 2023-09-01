@@ -30,3 +30,8 @@
 ### GOAL :  
 SDLC Enginner.
 
+### Project IDEAS :
+1. Create & host your own IDE.
+2. Tambola
+3. 
+
