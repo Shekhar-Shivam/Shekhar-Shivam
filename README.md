@@ -50,4 +50,6 @@ SDLC Enginner.
 1. Create & host your own IDE.
 2. Tambola
 3. GEnerative AI using ChatGPT.
+4. AI Smart Assistant (College Project)
+5. 
 
