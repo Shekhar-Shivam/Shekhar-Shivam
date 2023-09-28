@@ -47,9 +47,11 @@
 SDLC Enginner.
 
 ### Project IDEAS :
-1. Create & host your own IDE.
+1. Create & host your own IDE. like programiz
 2. Tambola
 3. GEnerative AI using ChatGPT. (LLM)
 4. AI Smart Assistant (College Project)
 5. Portfolio Resume using VueJS and FastAPI
+6. Data pipline project
+7. CI/CD project
 
