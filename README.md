@@ -54,4 +54,5 @@ SDLC Enginner.
 5. Portfolio Resume using VueJS and FastAPI
 6. Data pipline project
 7. CI/CD project
+8. OpenCV project.
 
